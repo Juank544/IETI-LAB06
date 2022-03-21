@@ -13,3 +13,8 @@ Editamos la configuracion "eslintConfig" y luego ejecutamos el comando `npm i -D
 ![](img/img_3.PNG)
 
 Añadimos los 2 nuevos scripts
+
+## Parte 3: Prettier
+
+Activamos la opción de "Format On Save"
+![](img/img_4.PNG)
